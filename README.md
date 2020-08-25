@@ -12,6 +12,10 @@ Stacking by mean over:
 
 Score on Kaggle competition https://www.kaggle.com/c/sf-dst-car-price is 9.01463. Place 8.
 
+Warning!!! To run our code on your machine first unzip auto_ru.zip to auto_ru.csv into same data/ folder.
+
+Enjoy our solution and remember...
+
 More time, less error, more profit!!!
 
 Copyright Alexey Kiselev, Ilia Sinev, Ruslan Muratov Esq. 2020. All right reserved.  
