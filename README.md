@@ -12,7 +12,16 @@ Stacking by mean over:
 
 Score on Kaggle competition https://www.kaggle.com/c/sf-dst-car-price is 9.01463. Place 8.
 
-Warning!!! To run our code on your machine first unzip auto_ru.zip to auto_ru.csv into same data/ folder.
+Warning!!! To run our code on your machine first unzip next files:
+1. data/auto_ru.zip
+2. models/BaggingRegressor_v10.zip
+3. models/CatBoostRegressor_v10.zip
+4. RandomForestRegressor_v10.zip
+5. catboost_info/catboost_training.zip
+into the same folders.
+
+The catboost_info folder contains data to visualize with TesnorBoard.
+Look more about catboost and tensorboard binding on https://catboost.ai/docs/features/visualization_tensorboard.html.
 
 Enjoy our solution and remember...
 
